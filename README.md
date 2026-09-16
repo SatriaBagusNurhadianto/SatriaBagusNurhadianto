@@ -85,10 +85,10 @@ metadata forensics · entity correlation
 <table align="center">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SatriaBagusNurhadianto&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&ring_color=0E7490" alt="GitHub stats" />
+<img width="100%" src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&theme=midnight&border_radius=4" alt="GitHub stats" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaBagusNurhadianto&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Top languages" />
+<img width="100%" src="https://ghstats.dev/api/langs?username=SatriaBagusNurhadianto&theme=midnight&border_radius=4&layout=bar&max_langs=6" alt="Top languages" />
 </td>
 </tr>
 </table>
