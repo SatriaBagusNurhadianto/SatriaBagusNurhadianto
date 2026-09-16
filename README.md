@@ -85,11 +85,12 @@ metadata forensics · entity correlation
 <table align="center">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&theme=midnight&border_radius=4" alt="GitHub stats" />
+<img src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&border_radius=4" alt="GitHub Stats Card" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://ghstats.dev/api/langs?username=SatriaBagusNurhadianto&theme=midnight&border_radius=4&layout=bar&max_langs=6" alt="Top languages" />
+<img src="https://ghstats.dev/api/langs?username=SatriaBagusNurhadianto" alt="Top Languages" />
 </td>
+<img src="https://ghstats.dev/api/mini?username=SatriaBagusNurhadianto&metric=contributions" alt="GitHub Mini Badge" />
 </tr>
 </table>
 
