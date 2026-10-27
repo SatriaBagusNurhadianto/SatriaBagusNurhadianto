@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header&text=Satria%20Bagus%20Nurhadianto&fontSize=34&fontColor=E2E8F0&fontAlignY=40&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20rebuild&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UM+Lamongan;AI+%2F+ML+%E2%80%A2+OSINT+%E2%80%A2+Security+Tooling;Small%2C+focused%2C+reviewable+PRs+%E2%80%94+3%E2%80%935%2Fday" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UMLA;AI+%2F+ML+%E2%80%A2+OSINT+%E2%80%A2+Security+Tooling;Small%2C+focused%2C+reviewable+PRs+%E2%80%94+3%E2%80%935%2Fday" alt="typing" />
 
 </div>
 
