@@ -21,12 +21,12 @@
 
 ### `$ whoami`
 
-- 🎓 CS student @ **Universitas Muhammadiyah Lamongan** (2025–2029), Lamongan, Jawa Timur
-- 🔬 Focus: **AI/ML engineering**, **OSINT**, **security tooling** — extraction, correlation, reasoning over metadata
-- 🛡️ Red-team/CTF-informed, used to sharpen the blue-team & engineering side
-- 🌱 Grow via open-source PRs, research, hands-on projects, experiments
-- 🧩 Break complex problems into clear, practical, maintainable solutions
-- 🚀 Exploring AI + data + backend + cloud together in real products
+-  CS student @ **Universitas Muhammadiyah Lamongan** (2025–2029), Lamongan, Jawa Timur
+-  Focus: **AI/ML engineering**, **OSINT**, **security tooling** — extraction, correlation, reasoning over metadata
+-  Red-team/CTF-informed, used to sharpen the blue-team & engineering side
+-  Grow via open-source PRs, research, hands-on projects, experiments
+-  Break complex problems into clear, practical, maintainable solutions
+-  Exploring AI + data + backend + cloud together in real products
 
 ### `$ cat ./stack`
 
@@ -62,7 +62,7 @@
 | [Remitpulse/backend](https://github.com/Remitpulse/backend) | [#40](https://github.com/Remitpulse/backend/pull/40), [#41](https://github.com/Remitpulse/backend/pull/41) | poll-interval zero + invalid-amount 400 |
 | [OnboardCI](https://github.com/Zerxen-dev/OnboardCI) | [#7](https://github.com/Zerxen-dev/OnboardCI/pull/7), [#8](https://github.com/Zerxen-dev/OnboardCI/pull/8) | env detector + JSON reporter |
 
-### 📊 Activity
+###  Activity
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&border_radius=4" alt="GitHub Stats Card" />
