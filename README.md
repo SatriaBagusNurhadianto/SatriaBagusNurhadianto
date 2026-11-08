@@ -41,24 +41,110 @@
 
 ### `$ ls ~/projects`
 
-| Project | What it is |
-|---|---|
-| **Corvus** | OSINT metadata extraction and correlation toolkit |
-| **TCA-Rex** | Hybrid Node.js + Go OSINT/security toolkit |
-| **Raven** | Go backend (Postgres, CI: gofmt/vet/test/build) |
-| **EDAN** | Scholarship portal for Indonesia (React 19 + Vite 7) |
-| **rawg-sdk** | Added missing API endpoints to an existing RAWG SDK |
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/SatriaBagusNurhadianto/Corvus">Corvus</a></h3>
+<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"></p>
+<p align="center">OSINT metadata extraction and correlation toolkit. EXIF/doc metadata, ZIP contents, hashes, entropy/anomaly scoring, YARA, async job pipeline, graph correlation.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/SatriaBagusNurhadianto/TCA-Rex">TCA-Rex</a></h3>
+<p align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></p>
+<p align="center">Hybrid Node.js + Go OSINT/security toolkit. Recon, crawling, XSS/SQLi scaffolding, WAF concepts, Go scanner.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/SatriaBagusNurhadianto/raven">Raven</a></h3>
+<p align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"></p>
+<p align="center">Go backend with Postgres. CI runs gofmt, vet, test, build.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">EDAN</h3>
+<p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"></p>
+<p align="center">Scholarship portal for Indonesia. Private repository.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/SatriaBagusNurhadianto/rawg-sdk">rawg-sdk</a></h3>
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
+<p align="center">Added missing API endpoints to an existing RAWG SDK.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/SatriaBagusNurhadianto/SatriaBagusNurhadianto">profile</a></h3>
+<p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"></p>
+<p align="center">This profile repository.</p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+More: <a href="https://github.com/SatriaBagusNurhadianto?tab=repositories">all repositories</a>
+</p>
 
 ### `$ git log --oneline (recent OSS PRs)`
 
-| Project | PR | Area |
-|---|---|---|
-| [axios](https://github.com/axios/axios) | [#11393](https://github.com/axios/axios/pull/11393) | fix formDataToJSON `length` key RangeError |
-| [recall-starter](https://github.com/CSBS310/recall-starter) | [#14](https://github.com/CSBS310/recall-starter/pull/14) | clamp SM-2 ease factor to MIN_EASE |
-| [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | [#4805](https://github.com/pipeshub-ai/pipeshub-ai/pull/4805) | add semantic:read and conversation:read to default MCP scopes |
-| [OpenPhysGraspGen](https://github.com/Official-Space-AI/OpenPhysGraspGen) | [#68](https://github.com/Official-Space-AI/OpenPhysGraspGen/pull/68) | expose `__version__` and `--version` flag |
-| [Remitpulse/backend](https://github.com/Remitpulse/backend) | [#40](https://github.com/Remitpulse/backend/pull/40), [#41](https://github.com/Remitpulse/backend/pull/41) | poll-interval zero and invalid-amount 400 |
-| [OnboardCI](https://github.com/Zerxen-dev/OnboardCI) | [#7](https://github.com/Zerxen-dev/OnboardCI/pull/7), [#8](https://github.com/Zerxen-dev/OnboardCI/pull/8) | env detector and JSON reporter |
+Merged upstream in projects I use.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/axios/axios">axios/axios</a></h3>
+<p align="center">
+<a href="https://github.com/axios/axios/pull/11393"><img src="https://img.shields.io/badge/Merged-%2311393-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 11393"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/github/stars/axios/axios?style=flat-square&color=555" alt="stars">
+</p>
+<p align="center">formDataToJSON RangeError on fields named "length".</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/Official-Space-AI/OpenPhysGraspGen">OpenPhysGraspGen</a></h3>
+<p align="center">
+<a href="https://github.com/Official-Space-AI/OpenPhysGraspGen/pull/68"><img src="https://img.shields.io/badge/Merged-%2368-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 68"></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/github/stars/Official-Space-AI/OpenPhysGraspGen?style=flat-square&color=555" alt="stars">
+</p>
+<p align="center">Expose __version__ and --version flag.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/charmbracelet/glow">charmbracelet/glow</a></h3>
+<p align="center">
+<a href="https://github.com/charmbracelet/glow/pull/1076"><img src="https://img.shields.io/badge/Merged-%231076-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 1076"></a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/github/stars/charmbracelet/glow?style=flat-square&color=555" alt="stars">
+</p>
+<p align="center">Exclude dot-directories by default.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/pydantic/pydantic">pydantic/pydantic</a></h3>
+<p align="center">
+<a href="https://github.com/pydantic/pydantic/pull/14098"><img src="https://img.shields.io/badge/Merged-%2314098-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 14098"></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/github/stars/pydantic/pydantic?style=flat-square&color=555" alt="stars">
+</p>
+<p align="center">Robust BaseModel.__eq__.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/Remitpulse/backend">Remitpulse/backend</a></h3>
+<p align="center">
+<a href="https://github.com/Remitpulse/backend/pull/40"><img src="https://img.shields.io/badge/Merged-%2340-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 40"></a>
+<a href="https://github.com/Remitpulse/backend/pull/41"><img src="https://img.shields.io/badge/Merged-%2341-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 41"></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+<p align="center">Poll-interval zero and invalid-amount 400.</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center"><a href="https://github.com/CSBS310/recall-starter">recall-starter</a></h3>
+<p align="center">
+<a href="https://github.com/CSBS310/recall-starter/pull/14"><img src="https://img.shields.io/badge/Merged-%2314-8957e5?style=flat-square&logo=github&logoColor=white" alt="Merged PR 14"></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+<p align="center">Clamp SM-2 ease factor to MIN_EASE.</p>
+</td>
+</tr>
+</table>
 
 ### Activity
 
