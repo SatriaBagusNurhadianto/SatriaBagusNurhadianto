@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header&text=Satria%20Bagus%20Nurhadianto&fontSize=34&fontColor=E2E8F0&fontAlignY=40&desc=build%20%E2%80%A2%20break%20%E2%80%A2%20rebuild&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header&text=Satria%20Bagus%20Nurhadianto&fontSize=34&fontColor=E2E8F0&fontAlignY=40&desc=Go%20%C2%B7%20JavaScript%20%C2%B7%20C%2B%2B%20%C2%B7%20Python&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UMLA;AI+%2F+ML+%E2%80%A2+OSINT+%E2%80%A2+Security+Tooling;Small%2C+focused%2C+reviewable+PRs+%E2%80%94+3%E2%80%935%2Fday" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UMLA;AI+%2F+ML+%E2%80%A2+OSINT+%E2%80%A2+Security+Tooling;Small%2C+focused%2C+reviewable+PRs" alt="typing" />
 
 </div>
 
@@ -21,32 +21,30 @@
 
 ### `$ whoami`
 
--  CS student @ **Universitas Muhammadiyah Lamongan** (2025–2029), Lamongan, Jawa Timur
--  Focus: **AI/ML engineering**, **OSINT**, **security tooling** — extraction, correlation, reasoning over metadata
--  Red-team/CTF-informed, used to sharpen the blue-team & engineering side
--  Grow via open-source PRs, research, hands-on projects, experiments
--  Break complex problems into clear, practical, maintainable solutions
--  Exploring AI + data + backend + cloud together in real products
+- CS student at Universitas Muhammadiyah Lamongan (2025-2029), Lamongan, Jawa Timur
+- Focus: AI/ML engineering, OSINT, security tooling
+- Grow via open-source PRs, research, hands-on projects, experiments
+- Break complex problems into clear, practical, maintainable solutions
 
 ### `$ cat ./stack`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58A6FF" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=58A6FF" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/YARA-0D1117?style=for-the-badge&logoColor=58A6FF" alt="YARA" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,js,cpp,python&perline=12" alt="Languages"></a></td>
+</tr>
+</table>
+
+</div>
 
 ### `$ ls ~/projects`
 
 | Project | What it is |
 |---|---|
-| **Corvus** | OSINT metadata extraction & correlation toolkit — EXIF/doc metadata, ZIP contents, hashes, entropy/anomaly scoring, YARA, async job pipeline, graph correlation (Neo4j / in-memory) |
-| **TCA-Rex** | Hybrid Node.js + Go OSINT/security toolkit — recon, crawling, XSS/SQLi scaffolding, WAF concepts, Go scanner |
+| **Corvus** | OSINT metadata extraction and correlation toolkit |
+| **TCA-Rex** | Hybrid Node.js + Go OSINT/security toolkit |
 | **Raven** | Go backend (Postgres, CI: gofmt/vet/test/build) |
 | **EDAN** | Scholarship portal for Indonesia (React 19 + Vite 7) |
 | **rawg-sdk** | Added missing API endpoints to an existing RAWG SDK |
@@ -57,12 +55,12 @@
 |---|---|---|
 | [axios](https://github.com/axios/axios) | [#11393](https://github.com/axios/axios/pull/11393) | fix formDataToJSON `length` key RangeError |
 | [recall-starter](https://github.com/CSBS310/recall-starter) | [#14](https://github.com/CSBS310/recall-starter/pull/14) | clamp SM-2 ease factor to MIN_EASE |
-| [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | [#4805](https://github.com/pipeshub-ai/pipeshub-ai/pull/4805) | add semantic:read & conversation:read to default MCP scopes |
-| [OpenPhysGraspGen](https://github.com/Official-Space-AI/OpenPhysGraspGen) | [#68](https://github.com/Official-Space-AI/OpenPhysGraspGen/pull/68) | expose `__version__` + `--version` flag |
-| [Remitpulse/backend](https://github.com/Remitpulse/backend) | [#40](https://github.com/Remitpulse/backend/pull/40), [#41](https://github.com/Remitpulse/backend/pull/41) | poll-interval zero + invalid-amount 400 |
-| [OnboardCI](https://github.com/Zerxen-dev/OnboardCI) | [#7](https://github.com/Zerxen-dev/OnboardCI/pull/7), [#8](https://github.com/Zerxen-dev/OnboardCI/pull/8) | env detector + JSON reporter |
+| [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | [#4805](https://github.com/pipeshub-ai/pipeshub-ai/pull/4805) | add semantic:read and conversation:read to default MCP scopes |
+| [OpenPhysGraspGen](https://github.com/Official-Space-AI/OpenPhysGraspGen) | [#68](https://github.com/Official-Space-AI/OpenPhysGraspGen/pull/68) | expose `__version__` and `--version` flag |
+| [Remitpulse/backend](https://github.com/Remitpulse/backend) | [#40](https://github.com/Remitpulse/backend/pull/40), [#41](https://github.com/Remitpulse/backend/pull/41) | poll-interval zero and invalid-amount 400 |
+| [OnboardCI](https://github.com/Zerxen-dev/OnboardCI) | [#7](https://github.com/Zerxen-dev/OnboardCI/pull/7), [#8](https://github.com/Zerxen-dev/OnboardCI/pull/8) | env detector and JSON reporter |
 
-###  Activity
+### Activity
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&border_radius=4" alt="GitHub Stats Card" />
