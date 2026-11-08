@@ -148,14 +148,21 @@ Merged upstream in projects I use.
 
 ### Activity
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=SatriaBagusNurhadianto&border_radius=4" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=SatriaBagusNurhadianto" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://ghstats.dev/api/mini?username=SatriaBagusNurhadianto&metric=contributions" alt="GitHub Mini Badge" />
-</p>
+<a href="https://github.com/SatriaBagusNurhadianto"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatriaBagusNurhadianto&theme=transparent" alt="Profile details" width="100%"></a>
+
+<table>
+<tr>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatriaBagusNurhadianto&theme=transparent" alt="Stats" width="100%"></td>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatriaBagusNurhadianto&theme=transparent" alt="Top languages by commit" width="100%"></td>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatriaBagusNurhadianto&theme=transparent" alt="Top languages by repo" width="100%"></td>
+</tr>
+</table>
+
+<a href="https://github.com/SatriaBagusNurhadianto"><img src="https://streak-stats.demolab.com?user=SatriaBagusNurhadianto&hide_border=true&theme=transparent" alt="Contribution streak"></a>
+
+</div>
 
 <div align="center">
 
