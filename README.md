@@ -168,6 +168,7 @@ Merged upstream in projects I use.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer&animation=fadeIn" alt="footer" />
 
-<sub>Satria Bagus Nurhadianto — build, break, debug, build again.</sub>
+<sub>Satria Bagus Nurhadianto
+build, break, debug, build again.</sub>
 
 </div>
