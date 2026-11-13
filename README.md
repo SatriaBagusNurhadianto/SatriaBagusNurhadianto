@@ -22,7 +22,7 @@
 ### `$ whoami`
 
 - CS student at Universitas Muhammadiyah Lamongan (2025-2029), Lamongan, Jawa Timur
-- Focus: AI/ML engineering, OSINT, security tooling
+- Focus: AI/ML engineering, OSINT, security tooling, Cybersecurity
 - Grow via open-source PRs, research, hands-on projects, experiments
 - Break complex problems into clear, practical, maintainable solutions
 
